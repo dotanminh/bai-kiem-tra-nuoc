@@ -1,12 +1,12 @@
-# Bài Kiểm Tra Nước — Has It Touched Water?
+# Bài Kiểm Tra Nước: Has It Touched Water?
 
-> **Skill phân loại kỹ năng AI vs Người** — Framework thực tế để quyết định cái gì nên giao cho AI, cái gì cần tự học thêm.
+> **Skill phân loại kỹ năng AI vs Người.** Framework thực tế để quyết định cái gì nên giao cho AI, cái gì cần tự học thêm.
 
 ---
 
 ## Nguồn gốc
 
-Framework này được rút ra từ bài phát biểu của **Kevin Kelly** (73 tuổi, nhà sáng lập tạp chí *Wired*) tại **WAIC 2026** — World AI Conference, Thượng Hải, ngày 17/7/2026.
+Framework này được rút ra từ bài phát biểu của **Kevin Kelly** (73 tuổi, nhà sáng lập tạp chí *Wired*) tại **WAIC 2026** (World AI Conference), Thượng Hải, ngày 17/7/2026.
 
 Câu gốc:
 > *"AI biết về bơi lội vì đọc hàng triệu trang sách. Nhưng nó chưa bao giờ thật sự ướt người."*
@@ -62,13 +62,13 @@ Agent sẽ đọc `SKILL.md`, áp dụng framework và trả về bảng phân l
 ## Ví dụ output
 
 ```
-### Thế giới Chữ — Delegate cho AI ngay
+### Thế giới Chữ: Delegate cho AI ngay
 | Kỹ năng | AI làm bằng cách nào |
 |---|---|
 | Dịch transcript tiếng Anh | Pattern dịch thuật từ dữ liệu song ngữ |
 | Tóm tắt bài phát biểu 60 phút | Rút ý chính từ văn bản có cấu trúc |
 
-### Thế giới Thật — Tự học thêm
+### Thế giới Thật: Tự học thêm
 | Kỹ năng | Tại sao cần người |
 |---|---|
 | Phán đoán insight nào đúng thị trường Việt | Cần hiểu bối cảnh địa phương thực tế |
@@ -103,10 +103,10 @@ git clone https://github.com/dotanminh/bai-kiem-tra-nuoc.git
 
 ## Liên quan
 
-- Video nguồn: [Kevin Kelly tại WAIC 2026](https://youtu.be/LwH2T9pPCc0) — Kênh Thanh Trần - 5 Phút AI
+- Video nguồn: [Kevin Kelly tại WAIC 2026](https://youtu.be/LwH2T9pPCc0) (Kênh Thanh Trần, 5 Phút AI)
 - Tường thuật WAIC: [Reuters 17/7/2026](https://www.reuters.com/video/innovations)
-- [Global Times — WAIC 2026](https://www.globaltimes.cn/page/202607/1366252.shtml)
+- [Global Times, WAIC 2026](https://www.globaltimes.cn/page/202607/1366252.shtml)
 
 ---
 
-*Tạo bởi Minh Đỗ — 24/7/2026*
+*Tạo bởi Minh Đỗ, 24/7/2026*
